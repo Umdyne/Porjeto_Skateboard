@@ -1,10 +1,11 @@
-<script setup lang="ts">
-
-</script>
-
 <template>
   <div>
-    <p class="bg-slate-500">ola</p>
+    <Inicial/>
   </div>
-
 </template>
+
+<script setup lang="ts">
+import Inicial from "./components/Inicial.vue";
+
+
+</script>
